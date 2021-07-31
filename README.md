@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on my startup app, more specifically the UI.
 - 🌱 I’m currently learning data-science.
 - 👯 I’m looking to collaborate on startups.
-- 🤔 I’m looking for help with finding opportunities.
+- 🤔 I’m looking for help with finding opportunities in app development as well as web development.
 - 💬 Ask me about anything.
-- 📫 How to reach me on twitter or email.
+- 📫 You can reach me on twitter or email.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm
+- ⚡ Fun fact: I'd like to travel the world while working remotely.
 
 <!--
 **4lisyd/4lisyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
