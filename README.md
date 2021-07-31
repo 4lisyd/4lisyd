@@ -9,6 +9,14 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'd like to travel the world while working remotely.
 
+### Technologies:👋
+> dart
+> flutter framework
+> python
+> java
+> c++
+> qt creator
+
 <!--
 **4lisyd/4lisyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
