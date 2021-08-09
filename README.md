@@ -10,11 +10,13 @@
 - ⚡ Fun fact: I'd like to travel the world while working remotely.
 
 ### Technologies:👋
-> dart
- flutter framework
- python
- java
- c++
+
+
+* dart
+* flutter framework
+* python
+* java
+* c++
 
 
 ![Alt Text](https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif)
