@@ -17,7 +17,7 @@
  c++
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif)
 <!--
 **4lisyd/4lisyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
