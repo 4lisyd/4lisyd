@@ -7,7 +7,8 @@
 - 💬 Ask me about anything.
 - 📫 You can reach me on twitter or email.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'd like to travel the world while working remotely.
+- ⚡ Goal: I'd like to travel the world while working remotely.
+- 🚨 Fun Fact:To replace programmers with robots, clients will have to accurately describe what they want. We're safe.
 
 ### Technologies:👋
 
