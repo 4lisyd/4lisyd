@@ -18,7 +18,7 @@
 * python
 * java
 * c++
-* korea
+* kor
 
 
 ![Alt Text](https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif)
