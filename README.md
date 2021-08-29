@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with finding opportunities in app development as well as web development.
 - 💬 Ask me about anything.
 - 📫 You can reach me on twitter or email.
-- 😄 Pronouns: He/him
 - ⚡ Goal: I'd like to travel the world while working remotely.
 - 🚨 Fun Fact:To replace programmers with robots, clients will have to accurately describe what they want. We're safe.
 
