@@ -20,5 +20,5 @@
 * C++
 * Javascript
 
-![Alt Text](https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif)
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif)
 
