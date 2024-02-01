@@ -18,4 +18,5 @@
 * Javascript
 
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif)
+![Alt Text](https://i.gifer.com/embedded/download/1F3O.gif)
 
