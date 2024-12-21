@@ -21,7 +21,7 @@
 
 bro i what in the NPC hell is this intro^. 
 
-i can't go to sleep when i am working on something which means it messes up my sleeping schedule, in/around december in the vacations everyday i go to sleep 3,4 hours later than the day before it shifts my days into nights and vice versa for a few weeks. i love it.
+i can't go to sleep when i am working on something which means it messes up my sleeping schedule, in/around december in the vacations everyday i go to sleep 3,4 hours later than the day before, it shifts my days into nights and vice versa for a few weeks. i love it.
 
 
 
