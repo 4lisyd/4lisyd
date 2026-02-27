@@ -1,4 +1,4 @@
-Senior HTML engineer. it is a joke.
+Senior HTML engineer. (it is a joke)
 
 
 Also, Humans are capable of doing great things. The human brain is vastly more powerful than even the best GPU in many aspects, therefore, NEVER GIVE UP!
