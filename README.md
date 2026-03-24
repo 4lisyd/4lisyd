@@ -3,3 +3,6 @@ Firstly, Humans are capable of doing great things. The human brain is vastly mor
 
 
 <<< What you see right here is Fibannaci in nature, more specifically this one is from sunflower's seed. But we find the same pattern in how exploding stars scatter, galaxy spirals, eye of a hurricane, ratio of human body, DNA molecules, The same equations governing a sunflower's seeds also shape the cosmos itself. In finding these patterns in nature, we're discovering some someone wrote a code for it and some programmer's favourite design pattern. Perhaps we aren't discovering laws of nature, but rather reverse-engineering a legacy codebase written in a language we're only just beginning to parse. The universe behaves less like a chaotic void and more like a highly optimized runtime, where Fibonacci is simply the most efficient algorithm for memory allocation and growth. We are slowly realizing that every pattern we find is just a function call to a deeper, hidden library we haven't yet managed to import. 
+
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5lbWtvZHk2NXBybTN4Zm5xNHc1dHlrYmNzZTZrZzNmaGlramEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeLIQ7uiE6fGPczNVF/giphy.gif)
