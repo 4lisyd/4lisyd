@@ -5,7 +5,7 @@ Firstly, Humans are capable of doing great things. The human brain is vastly mor
 
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5lbWtvZHk2NXBybTN4Zm5xNHc1dHlrYmNzZTZrZzNmaGlramEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeLIQ7uiE6fGPczNVF/giphy.gif)
 
-
+OPEN TO CONTRIBUTE TO EXISTING CODE. SIMPLY MENTION MY USERNAME.
 
 Currently i am upto:
 
@@ -19,8 +19,8 @@ Currently i am upto:
     Building 'Books' (pdfs) information retrieval system where i can ask quick questions from within a 1000 page book.
     Collecting more books. Hoarding PDFs like a digital dragon, building a RAG system just to talk to them.
     Linux distro hopping.
-    My future self merges a PR into my present. Conflicts everywhere.
-    Embedded engineering and robots (drones)
+    If my future self merges a PR into my present. Conflicts everywhere.
+    Embedded engineering and autonomous robotics (drones, submarines) (distant)
     
 
 Vibe coding is obsolete, real ones aura code.
