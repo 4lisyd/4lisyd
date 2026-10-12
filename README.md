@@ -4,7 +4,7 @@
 
 OPEN TO CONTRIBUTE TO EXISTING CODE. SIMPLY MENTION MY USERNAME.
 
-Currently i am upto/interested:
+Currently i am upto/interested: ** (i know you don't care, i wrote this because i sometimes forget too what i used to like) **
 
     LLMs workflow on personal local hardware, liberated!
     Rust!!! i think one man can change the world with it. Performant and fail-proof (hard to really master)
